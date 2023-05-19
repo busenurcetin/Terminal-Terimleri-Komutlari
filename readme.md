@@ -1,6 +1,6 @@
 <h1> Sık Kullanılan Terminal Terimleri Ve Komutları </h1>
 
-## Yazılım Dünyasında Sık Kullanılan Linux / Terminal Terimleri Ve Komutları
+## Yazılım Dünyasında Sık Kullanılan Terminal Terimleri Ve Komutları
 
  <h3> Terminal Kullanımını Bilmeyen, Komutlarını Bilmeyen Veya Terimlerine Hakim Olmayanlara Yardımcı Olması Dileğiyle. </h3>
  <br>
